@@ -7,10 +7,7 @@ int main()
 
     
 
-    printf("Enter two integers: ");
-
-    scanf("%d %d", &num1, &num2);
-
+   
 
 
     // calculate the sum of two numbers
